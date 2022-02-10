@@ -1,4 +1,3 @@
-from email import header
 import requests
 
 url = 'https://www.4devs.com.br/ferramentas_online.php'
