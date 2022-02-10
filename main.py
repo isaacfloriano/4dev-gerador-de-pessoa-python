@@ -16,5 +16,5 @@ idade = (solicitacao['idade'])
 cpf = (solicitacao['cpf'])
 dataNac = (solicitacao['data_nasc'])
 sexo = (solicitacao['sexo'])
-
+#tete
 print(f"Nome: {nome} \nIdade: {idade}\nCPF: {cpf}\nIdade: {idade}\nData de nascimento: {dataNac}\nSexo: {sexo}")
